@@ -1,1 +1,1 @@
-# PyMiner-Transformer
+# EzyTransformer
